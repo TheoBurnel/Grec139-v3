@@ -1,0 +1,13 @@
+{
+  "id" : "https://TheoBurnel.github.io/Grec139-v3/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in TheoBurnel/Grec139-v3 project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TheoBurnel.github.io/Grec139-v3/manifests/manifest_3.json",
+    "label" : "BnF. Département des Manuscrits. Grec 139"
+  } ]
+}
