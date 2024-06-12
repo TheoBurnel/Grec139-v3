@@ -1,0 +1,646 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "http://localhost:8888/annotation/1718202359688",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:25:59",
+    "dcterms:modified" : "2024-06-12T16:30:18",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: d&eacute;cor, ruban\nCouleur&nbsp;: vert\nMat&eacute;riau&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: d&eacute;cor, ruban</p>\n<p><strong>Couleur</strong>&nbsp;: vert</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1323,939,57,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1323.24507,939.21053h28.45197v0h28.45197v28.45197v28.45197h-28.45197h-28.45197v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_808fde0b-f511-4eed-aea9-e4e9ecbc5d0e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202368003",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:26:08",
+    "dcterms:modified" : "2024-06-12T16:30:52",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: d&eacute;cor, fleuron\nCouleur&nbsp;: dor&eacute;\nMat&eacute;riau&nbsp;: or",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: d&eacute;cor, fleuron</p>\n<p><strong>Couleur</strong>&nbsp;: dor&eacute;</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: or</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3755,908,57,53"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3754.70559,907.83684h28.45197v0h28.45197v26.49112v26.49112h-28.45197h-28.45197v-26.49112z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_7ac49d3a-6cbd-4e50-8b4b-287bdad68988\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202377206",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:26:17",
+    "dcterms:modified" : "2024-06-12T16:31:23",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: fond, ciel\nCouleur&nbsp;: violet\nMat&eacute;riau&nbsp;: cochenille, lapis-lazuli",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: fond, ciel</p>\n<p><strong>Couleur</strong>&nbsp;: violet</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: cochenille, lapis-lazuli</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1488,1386,49,49"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1487.95691,1386.28553h24.53026v0h24.53026v24.53026v24.53026h-24.53026h-24.53026v-24.53026z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_a844d190-f7e3-4478-8977-ec2c1ddc9146\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202386908",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:26:26",
+    "dcterms:modified" : "2024-06-12T16:32:22",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: architecture, portique, plafond, panneau dextre\nCouleur&nbsp;: vert\nMat&eacute;riau&nbsp;: indigo, ocre jaune, ind&eacute;termin&eacute;",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: architecture, portique, plafond, panneau dextre</p>\n<p><strong>Couleur</strong>&nbsp;: vert</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: indigo, ocre jaune, ind&eacute;termin&eacute;</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2817,1516,57,53"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2817.41678,1515.70197h28.45197v0h28.45197v26.49112v26.49112h-28.45197h-28.45197v-26.49112z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_01c76e95-2cf9-42f1-aca2-ce94233fea84\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202400490",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:26:40",
+    "dcterms:modified" : "2024-06-12T16:33:04",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: architecture, colonne dextre, partie sup&eacute;rieure\nCouleur&nbsp;: bleu\nMat&eacute;riau&nbsp;: lapis-lazuli",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: architecture, colonne dextre, partie sup&eacute;rieure</p>\n<p><strong>Couleur</strong>&nbsp;: bleu</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: lapis-lazuli</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2276,1904,53,53"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2276.22072,1903.95132h26.49112v0h26.49112v26.49112v26.49112h-26.49112h-26.49112v-26.49112z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_89830c94-4d78-4a7d-a965-68876b101b83\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202415737",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:26:55",
+    "dcterms:modified" : "2024-06-12T16:33:47",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: architecture, portique, entablement senestre\nCouleur&nbsp;: jaune\nMat&eacute;riau&nbsp;: ocre jaune",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: architecture, portique, entablement senestre</p>\n<p><strong>Couleur</strong>&nbsp;: jaune</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: ocre jaune</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=825,2363,53,49"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M825.18783,2362.79145h26.49112v0h26.49112v24.53026v24.53026h-26.49112h-26.49112v-24.53026z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_33c4f3e1-cd52-4a15-a95b-ff7e78d3126b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202426371",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:27:06",
+    "dcterms:modified" : "2024-06-12T16:34:20",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: v&ecirc;tement, robe, sein senestre\nCouleur&nbsp;: blanc\nMat&eacute;riau&nbsp;: azurite, lapis-lazuli",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: v&ecirc;tement, robe, sein senestre</p>\n<p><strong>Couleur</strong>&nbsp;: blanc</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: azurite, lapis-lazuli</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1876,2473,53,53"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1876.20625,2472.59934h26.49112v0h26.49112v26.49112v26.49112h-26.49112h-26.49112v-26.49112z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_e946c45f-8187-4f87-9527-5df4464e2c10\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202438517",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:27:18",
+    "dcterms:modified" : "2024-06-12T16:34:53",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: carnation, visage, menton\nCouleur&nbsp;: rose\nMat&eacute;riau&nbsp;: cinabre",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: carnation, visage, menton</p>\n<p><strong>Couleur</strong>&nbsp;: rose</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: cinabre</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1359,2790,61,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1358.54046,2790.25789h30.41283v0h30.41283v28.45197v28.45197h-30.41283h-30.41283v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_a1872f3f-ab57-4d68-b957-f75bf13ef200\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202452430",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:27:32",
+    "dcterms:modified" : "2024-06-12T16:35:32",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: v&ecirc;tement, cuirasse, &eacute;paule dextre\nCouleur&nbsp;: orange\nMat&eacute;riau&nbsp;: ocre jaune",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: v&ecirc;tement, cuirasse, &eacute;paule dextre</p>\n<p><strong>Couleur</strong>&nbsp;: orange</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: ocre jaune</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2453,2892,69,65"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2452.6977,2892.22237h34.33454v0h34.33454v32.37368v32.37368h-34.33454h-34.33454v-32.37368z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_c6536378-fd09-4d2c-8639-2e6ab52dc6de\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202462807",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:27:42",
+    "dcterms:modified" : "2024-06-12T16:36:03",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: v&ecirc;tement, toge, flanc dextre\nCouleur&nbsp;: rose\nMat&eacute;riau&nbsp;: cochenille",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: v&ecirc;tement, toge, flanc dextre</p>\n<p><strong>Couleur</strong>&nbsp;: rose</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: cochenille</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3108,3080,57,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3107.62336,3080.46447h28.45197v0h28.45197v28.45197v28.45197h-28.45197h-28.45197v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_3dd06ad2-0be0-41e5-b128-688ca5a42239\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202477396",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:27:57",
+    "dcterms:modified" : "2024-06-12T16:36:53",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: architecture, portique dextre, soubassement, milieu\nCouleur&nbsp;: brun\nMat&eacute;riau&nbsp;: cochenille, lapis-lazuli",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: architecture, portique dextre, soubassement, milieu</p>\n<p><strong>Couleur</strong>&nbsp;: brun</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: cochenille, lapis-lazuli</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=590,3508,57,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M589.8852,3507.93092h28.45197v0h28.45197v28.45197v28.45197h-28.45197h-28.45197v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_20a995b7-7085-41a1-b2d1-5222878d3c3e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202490786",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:28:10",
+    "dcterms:modified" : "2024-06-12T16:37:33",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: v&ecirc;tement, robe, hanche senestre\nCouleur&nbsp;: violet\nMat&eacute;riau&nbsp;: cochenille, lapis-lazuli",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: v&ecirc;tement, robe, hanche senestre</p>\n<p><strong>Couleur</strong>&nbsp;: violet</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: cochenille, lapis-lazuli</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1417,3382,57,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1417.36612,3382.43618h28.45197v0h28.45197v28.45197v28.45197h-28.45197h-28.45197v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_e4d01144-dda3-4a98-a804-8142d7ba7a58\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202498788",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:28:18",
+    "dcterms:modified" : "2024-06-12T16:38:05",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: v&ecirc;tement, robe, galon\nCouleur&nbsp;: vert\nMat&eacute;riau&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: v&ecirc;tement, robe, galon</p>\n<p><strong>Couleur</strong>&nbsp;: vert</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1786,3688,61,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1786.00691,3688.32961h30.41283v0h30.41283v28.45197v28.45197h-30.41283h-30.41283v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_d9698596-8995-497e-9e7d-634c73b6c58e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202506765",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:28:26",
+    "dcterms:modified" : "2024-06-12T16:38:44",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: v&ecirc;tement, tunique, galon\nCouleur&nbsp;: rouge\nMat&eacute;riau&nbsp;: cinabre, cochenille",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: v&ecirc;tement, tunique, galon</p>\n<p><strong>Couleur</strong>&nbsp;: rouge</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: cinabre, cochenille</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2692,3704,61,61"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2691.92204,3704.01645h30.41283v0h30.41283v30.41283v30.41283h-30.41283h-30.41283v-30.41283z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_9f7fdf1f-4d92-46c0-a44d-c4ac76ea064a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202515468",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:28:35",
+    "dcterms:modified" : "2024-06-12T16:39:24",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: carnation, mollet, milieu\nCouleur&nbsp;: beige\nMat&eacute;riau&nbsp;: cinabre",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: carnation, mollet, milieu</p>\n<p><strong>Couleur</strong>&nbsp;: beige</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: cinabre</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2794,3916,57,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2793.88651,3915.78882h28.45197v0h28.45197v28.45197v28.45197h-28.45197h-28.45197v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_e87560dd-41d0-4387-a7e2-66caef162b8c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202528154",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:28:48",
+    "dcterms:modified" : "2024-06-12T16:40:08",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: v&ecirc;tement, robe, galon\nCouleur&nbsp;: orange\nMat&eacute;riau&nbsp;: ocre jaune",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: v&ecirc;tement, robe, galon</p>\n<p><strong>Couleur</strong>&nbsp;: orange</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: ocre jaune</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1115,4112,53,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1115.39441,4111.87434h26.49112v0h26.49112v28.45197v28.45197h-26.49112h-26.49112v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_d7b262ab-86bc-4f90-8692-5e4276398e72\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202539781",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:28:59",
+    "dcterms:modified" : "2024-06-12T16:40:34",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: paysage, sol\nCouleur&nbsp;: vert\nMat&eacute;riau&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: paysage, sol</p>\n<p><strong>Couleur</strong>&nbsp;: vert</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=574,4382,57,61"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M574.19836,4382.47237h28.45197v0h28.45197v30.41283v30.41283h-28.45197h-28.45197v-30.41283z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_3a7376d8-8da9-4438-806a-55e50a99548f\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202547561",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:29:07",
+    "dcterms:modified" : "2024-06-12T16:41:05",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: paysage, sol, rehaut\nCouleur&nbsp;: vert\nMat&eacute;riau&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: paysage, sol, rehaut</p>\n<p><strong>Couleur</strong>&nbsp;: vert</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1876,4535,61,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1876.20625,4535.41908h30.41283v0h30.41283v28.45197v28.45197h-30.41283h-30.41283v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_0bf0c707-2f82-43ea-be0f-ef318ed676a9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202568318",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:29:28",
+    "dcterms:modified" : "2024-06-12T16:41:33",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: paysagen sol\nCouleur&nbsp;: vert\nMat&eacute;riau&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: paysagen sol</p>\n<p><strong>Couleur</strong>&nbsp;: vert</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: lapis-lazuli, ocre jaune, ind&eacute;termin&eacute;</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3053,4465,61,61"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3052.71941,4464.82829h30.41283v0h30.41283v30.41283v30.41283h-30.41283h-30.41283v-30.41283z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_647cc5b0-2155-4e9e-9108-236901e225e6\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  }, {
+    "@id" : "http://localhost:8888/annotation/1718202581293",
+    "@type" : "oa:Annotation",
+    "dcterms:created" : "2024-06-12T16:29:41",
+    "dcterms:modified" : "2024-06-12T16:42:08",
+    "resource" : [ {
+      "@type" : "dctypes:Text",
+      "http://dev.llgc.org.uk/sas/full_text" : "Motif&nbsp;: d&eacute;cor, ruban, milieu\nCouleur&nbsp;: bleu\nMat&eacute;riau&nbsp;: lapis-lazuli",
+      "format" : "text/html",
+      "chars" : "<p><strong>Motif</strong>&nbsp;: d&eacute;cor, ruban, milieu</p>\n<p><strong>Couleur</strong>&nbsp;: bleu</p>\n<p><strong>Mat&eacute;riau</strong>&nbsp;: lapis-lazuli</p>"
+    } ],
+    "on" : [ {
+      "@type" : "oa:SpecificResource",
+      "within" : {
+        "@id" : "http://46e6be42-152b-4e33-9cb4-ab3885250709",
+        "@type" : "sc:Manifest"
+      },
+      "selector" : {
+        "@type" : "oa:Choice",
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2657,4935,61,57"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2656.62664,4935.43355h30.41283v0h30.41283v28.45197v28.45197h-30.41283h-30.41283v-28.45197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_c4ec983c-ba91-47b4-9402-376be7d50947\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"3\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        }
+      },
+      "full" : "https://gallica.bnf.fr/iiif/ark:/12148/btv1b10515446x/canvas/f14"
+    } ],
+    "motivation" : [ "oa:commenting" ],
+    "@context" : "http://iiif.io/api/presentation/2/context.json"
+  } ],
+  "@id" : "https://TheoBurnel.github.io/Grec139-v3/annotations/f14.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
