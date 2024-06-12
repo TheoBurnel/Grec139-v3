@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://TheoBurnel.github.io/Grec139-v3/annotations/f6.json", "https://TheoBurnel.github.io/Grec139-v3/annotations/f14.json" ],
+  "otherContent" : [ "https://TheoBurnel.github.io/Grec139-v3/annotations/f6.json", "https://TheoBurnel.github.io/Grec139-v3/annotations/f14.json", "https://TheoBurnel.github.io/Grec139-v3/annotations/f78.json" ],
   "@id" : "https://TheoBurnel.github.io/Grec139-v3/annotations/collection.json",
   "label" : "All annotations loaded in TheoBurnel/Grec139-v3 project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
