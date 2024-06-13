@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://TheoBurnel.github.io/Grec139-v3/manifests/manifest_3.json",
     "label" : "BnF. Département des Manuscrits. Grec 139"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TheoBurnel.github.io/Grec139-v3/manifests/manifest_3b.json",
+    "label" : "BnF. Département des Manuscrits. Grec 139"
   } ]
 }
